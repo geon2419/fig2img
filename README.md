@@ -1,4 +1,4 @@
-# fig2img
+# [Deprecated] fig2img
 
 [한국어](./README.ko.md)
 
@@ -14,27 +14,27 @@
 
 ### Getting Started
 
-#### Installation
+#### ~Installation~
 
-You can install fig2img using Homebrew:
+~You can install fig2img using Homebrew:~
 
 ```bash
 brew tap geonhyeoklee/fig2img
 brew install fig2img
 ```
 
-Verify the installation:
+~Verify the installation:~
 ```bash
 fig2img --version
 ```
 
-Alternatively, you can:
-1. Download the latest release from GitHub Releases page
-2. You can either:
-   - Run the executable from the downloaded location using the usage instructions below
-   - Move it to `/usr/local/bin` to run it from anywhere in your system
+~Alternatively, you can:~
+~1. Download the latest release from GitHub Releases page~
+~2. You can either:~
+   - ~Run the executable from the downloaded location using the usage instructions below~
+   - ~Move it to `/usr/local/bin` to run it from anywhere in your system~
 
-> Note: On macOS, you might need to grant security permissions to run the executable.
+> ~Note: On macOS, you might need to grant security permissions to run the executable.~
 
 #### Environment Setup
 
